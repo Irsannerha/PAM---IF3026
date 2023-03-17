@@ -5,4 +5,5 @@ Search Page
 <img src="./src/img/gambar1.jpeg" alt="Gambar 12" width="300">
 <br>
 Search Result Page
+<br>
 <img src="./src/img/gambar2.jpeg" alt="Gambar 12" width="300">
